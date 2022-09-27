@@ -1,13 +1,9 @@
-public class pra2.java
+public class pra2{
 
-public static void main (String[]args){
+public static void main (String[]args)
 
-	
-
-	int i =0
-
-	for(i=0;i<=99;i++){
+	for(i=0; i<=99; i++; ){
 		System.out.println(Hello Git World);
 	}
 }
-		
+}
